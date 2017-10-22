@@ -1,7 +1,7 @@
 import struct
 
-in_file = "/Users/estebanserranorodriguez/Dropbox/Nico/LSM9DS0_Accl_Logger/Data/30-3-2017/IMUlog00.bin"
-out_file = "convert17.csv"
+in_file = "helloWorld.bin" #add your source file here
+out_file = "helloWorld.csv" #add your target file here
 
 block_len = 512     #Block length
 lines_per_block = 7
